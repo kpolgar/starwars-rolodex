@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/starwars-rolodex/static/css/main.3e729e42.chunk.css",
+    "main.js": "/starwars-rolodex/static/js/main.898b4652.chunk.js",
+    "main.js.map": "/starwars-rolodex/static/js/main.898b4652.chunk.js.map",
+    "runtime-main.js": "/starwars-rolodex/static/js/runtime-main.e915fb76.js",
+    "runtime-main.js.map": "/starwars-rolodex/static/js/runtime-main.e915fb76.js.map",
+    "static/js/2.4d8b3afd.chunk.js": "/starwars-rolodex/static/js/2.4d8b3afd.chunk.js",
+    "static/js/2.4d8b3afd.chunk.js.map": "/starwars-rolodex/static/js/2.4d8b3afd.chunk.js.map",
+    "index.html": "/starwars-rolodex/index.html",
+    "precache-manifest.7f6065fa963564b5038b8a21da4460ff.js": "/starwars-rolodex/precache-manifest.7f6065fa963564b5038b8a21da4460ff.js",
+    "service-worker.js": "/starwars-rolodex/service-worker.js",
+    "static/css/main.3e729e42.chunk.css.map": "/starwars-rolodex/static/css/main.3e729e42.chunk.css.map",
+    "static/media/Beru Whitesun lars.jpg": "/starwars-rolodex/static/media/Beru Whitesun lars.1583dc84.jpg",
+    "static/media/Biggs Darklighter.jpg": "/starwars-rolodex/static/media/Biggs Darklighter.1d303942.jpg",
+    "static/media/C-3PO.jpg": "/starwars-rolodex/static/media/C-3PO.ae5458db.jpg",
+    "static/media/Darth Vader.jpg": "/starwars-rolodex/static/media/Darth Vader.237e166f.jpg",
+    "static/media/Leia Organa.jpg": "/starwars-rolodex/static/media/Leia Organa.303bc390.jpg",
+    "static/media/Luke Skywalker.jpg": "/starwars-rolodex/static/media/Luke Skywalker.066cc5a8.jpg",
+    "static/media/Obi-Wan Kenobi.jpg": "/starwars-rolodex/static/media/Obi-Wan Kenobi.f451e481.jpg",
+    "static/media/Owen Lars.jpg": "/starwars-rolodex/static/media/Owen Lars.fb238258.jpg",
+    "static/media/R2-D2.jpg": "/starwars-rolodex/static/media/R2-D2.c8068fb5.jpg",
+    "static/media/R5-D4.jpg": "/starwars-rolodex/static/media/R5-D4.1a48d17f.jpg",
+    "static/media/App.css": "/starwars-rolodex/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e915fb76.js",
+    "static/js/2.4d8b3afd.chunk.js",
+    "static/css/main.3e729e42.chunk.css",
+    "static/js/main.898b4652.chunk.js"
+  ]
+}
