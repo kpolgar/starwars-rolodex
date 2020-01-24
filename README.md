@@ -1,7 +1,7 @@
 # Starwars-Rolodex
 
 View App:
-<a href="https://kpolgar.github.io/starwars-rolodex/" target="_blank">
+"https://kpolgar.github.io/starwars-rolodex/"
 
 This is a fully responsive web app that leverages React to filter and display cards with starwars characters. The fetch API is used to retrieve users from the Star Wars API.
  
