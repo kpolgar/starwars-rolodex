@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/starwars-rolodex/precache-manifest.117e8f8e05cc5f5302e2c6ad71bf4863.js"
+  "/starwars-rolodex/precache-manifest.1acdb47e8afa53bb57cf0a43ea2d403a.js"
 );
 
 self.addEventListener('message', (event) => {

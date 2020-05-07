@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/starwars-rolodex/static/css/main.3e729e42.chunk.css",
-    "main.js": "/starwars-rolodex/static/js/main.0cfd91e9.chunk.js",
-    "main.js.map": "/starwars-rolodex/static/js/main.0cfd91e9.chunk.js.map",
+    "main.js": "/starwars-rolodex/static/js/main.68c28a80.chunk.js",
+    "main.js.map": "/starwars-rolodex/static/js/main.68c28a80.chunk.js.map",
     "runtime-main.js": "/starwars-rolodex/static/js/runtime-main.e915fb76.js",
     "runtime-main.js.map": "/starwars-rolodex/static/js/runtime-main.e915fb76.js.map",
     "static/js/2.4d8b3afd.chunk.js": "/starwars-rolodex/static/js/2.4d8b3afd.chunk.js",
     "static/js/2.4d8b3afd.chunk.js.map": "/starwars-rolodex/static/js/2.4d8b3afd.chunk.js.map",
     "index.html": "/starwars-rolodex/index.html",
-    "precache-manifest.117e8f8e05cc5f5302e2c6ad71bf4863.js": "/starwars-rolodex/precache-manifest.117e8f8e05cc5f5302e2c6ad71bf4863.js",
+    "precache-manifest.1acdb47e8afa53bb57cf0a43ea2d403a.js": "/starwars-rolodex/precache-manifest.1acdb47e8afa53bb57cf0a43ea2d403a.js",
     "service-worker.js": "/starwars-rolodex/service-worker.js",
     "static/css/main.3e729e42.chunk.css.map": "/starwars-rolodex/static/css/main.3e729e42.chunk.css.map",
     "static/media/Beru Whitesun lars.jpg": "/starwars-rolodex/static/media/Beru Whitesun lars.1583dc84.jpg",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.e915fb76.js",
     "static/js/2.4d8b3afd.chunk.js",
     "static/css/main.3e729e42.chunk.css",
-    "static/js/main.0cfd91e9.chunk.js"
+    "static/js/main.68c28a80.chunk.js"
   ]
 }

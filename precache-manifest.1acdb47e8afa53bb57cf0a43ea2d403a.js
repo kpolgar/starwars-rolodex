@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ca951787a885e3d89deea2e5dcb5c565",
+    "revision": "87cba9c58d41cb0f91c12bf20329f741",
     "url": "/starwars-rolodex/index.html"
   },
   {
-    "revision": "f7afa750747e1ed58cdd",
+    "revision": "fd5a4e68149e3aaae2a6",
     "url": "/starwars-rolodex/static/css/main.3e729e42.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/starwars-rolodex/static/js/2.4d8b3afd.chunk.js"
   },
   {
-    "revision": "f7afa750747e1ed58cdd",
-    "url": "/starwars-rolodex/static/js/main.0cfd91e9.chunk.js"
+    "revision": "fd5a4e68149e3aaae2a6",
+    "url": "/starwars-rolodex/static/js/main.68c28a80.chunk.js"
   },
   {
     "revision": "b97bab0fca765ff36d29",
