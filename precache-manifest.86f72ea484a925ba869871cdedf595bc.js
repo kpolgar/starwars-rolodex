@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "87cba9c58d41cb0f91c12bf20329f741",
+    "revision": "2d8ce17d25013c3d52a4fad8b8df64b9",
     "url": "/starwars-rolodex/index.html"
   },
   {
