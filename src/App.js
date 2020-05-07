@@ -16,7 +16,7 @@ class App extends Component {
   }
 
   componentDidMount() {
-    fetch('https://swapi.co/api/people/')
+    fetch('https://swapi.dev/api/people/')
     .then(response => response.json())
     .then(users => this.setState({ monsters: users.results }));
   }
